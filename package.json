@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ibot",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-ytdl-core": "^4.0.8",
+    "discord.js": "^12.3.1",
+    "merge-options": "^3.0.3",
+    "moment": "^2.29.0",
+    "node-fetch": "^2.6.1",
+    "soundcloud-scraper": "^3.0.1",
+    "spotify-url-info": "^2.0.0",
+    "ytpl": "^1.0.1",
+    "ytsr": "^1.0.1"
+  }
+}
